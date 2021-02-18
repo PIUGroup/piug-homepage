@@ -1,2 +1,4 @@
 # piug-homepage
-homepage of PIUGroup
+homepage of PIUG(roup)
+
+[Enter here](docs/readme.md)
