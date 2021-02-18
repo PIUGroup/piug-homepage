@@ -2,4 +2,5 @@
 
 ## Last Download Statistic
 ![Maven Central Java Projects](tsc-downloads.PNG)
+Don't worry to the name FunThomas424242. He is an alias for Huluvu424242 at other platforms.
 
